@@ -16,28 +16,16 @@ A simple age calculator app built with React.
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/age-calculator-app.git
-
-Copy
-Insert
+`git clone https://github.com/sajjadnazaridev/age-calculator-app.git`
 
 2. Navigate to the project directory:
-cd age-calculator-app
-
-Copy
-Insert
+`cd age-calculator-app`
 
 3. Install the dependencies:
-npm install
-
-Copy
-Insert
+`npm install`
 
 4. Start the development server:
-npm start
-
-Copy
-Insert
+`npm start`
 
 ## Usage
 
